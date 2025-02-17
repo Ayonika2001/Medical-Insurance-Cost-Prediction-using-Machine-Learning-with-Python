@@ -618,6 +618,3 @@ print("The insurance cost is USD ",prediction[0])
     The insurance cost is USD  3760.0805764960587
     
 
-    C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
-      warnings.warn(
-    
